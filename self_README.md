@@ -1,6 +1,3 @@
-[The link where you want to do projects at](https://www.projectpro.io/article/llm-project-ideas/881)
+[Look at the commit history for this repository to aid you in building up and training nanoGPT](https://github.com/karpathy/build-nanogpt)
 
-
-[The current project you want to do](https://www.projectpro.io/article/how-to-build-an-ai-powered-recommendation-system/1084#mcetoc_1ih801euts)
-
-[Link to the current colab notebook you are developing ththe recommendation system in](https://colab.research.google.com/drive/1xOrc5esMc_2oJeDXFpvpjnlUjucTcowp)
+You are currently at commit "initial commit".
